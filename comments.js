@@ -4,5 +4,4 @@
 
 //second way is to create a file input html element => to be done later
 
-
 //using the webAudio API , read docs.
