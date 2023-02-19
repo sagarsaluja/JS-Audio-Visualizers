@@ -2,5 +2,7 @@
 //so we'll convert our audio into a base 64 string first => but this string can be very long.
 //just use an audio to base 64 string converter online.
 
-//second way is to create a file input html element
-  
+//second way is to create a file input html element => to be done later
+
+
+//using the webAudio API , read docs.
